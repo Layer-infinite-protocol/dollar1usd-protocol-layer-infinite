@@ -1,0 +1,11 @@
+{
+  "networkName": "Dollar1USD Layer Infinite Mainnet",
+  "chainId": 18881,
+  "symbol": "1USD",
+  "targetPegUSD": 1,
+  "baseTpsCapability": 100000,
+  "dynamicSharding": true,
+  "zkRollupFinalityMs": 45,
+  "governor": "Emadalshamery",
+  "version": "1.0.0-infinite"
+}
